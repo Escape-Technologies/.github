@@ -1,4 +1,4 @@
-## Welcome to our repo 👋
+## 👋 Welcome to our repo 
 
 ![Escape](https://26857953.fs1.hubspotusercontent-eu1.net/hubfs/26857953/cover-escape-github.png)
 
@@ -19,17 +19,17 @@
   <hr />
 </div>
 
-## Hello! 👋 
+## 👋 Hello again   
 
 [Escape](https://escape.tech) is the API discovery and security platform built to help Application Security engineers. 
 
 Securing APIs shouldn't be this hard. With Escape, you can quickly inventory all APIs, detect OWASP Top 10 and complex logic flaws at scale, and adopt security in CI/CD.  No agent, no proxy are required. And we assist developers with detailed remediation snippets 😉
 
-## Join our team 🤝 
+## 🤝 Join our team  
 
 We believe it’s time to bring more AI-driven innovation to cybersecurity, and we'd love your help in building this dream! Want to join our adventure? Check out our [**Careers**](https://jobs.escape.tech) page!
 
-## Open source repos 🧙
+## 🧙 Open source repos 
 
 At Escape, in addition to our work on API security, we've also been developing some fantastic open-source projects. Let us introduce you to all of them 🚀
 
