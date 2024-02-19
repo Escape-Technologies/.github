@@ -61,11 +61,11 @@ At Escape, in addition to our work on API security, we've also been developing s
 
 - [Follow us on LinkedIn](https://www.linkedin.com/company/escapetech/) to get the latest updates from our team and connect with team members! 
 
-- [Join our Discord community](https://discord.com/invite/G9FEuFuKfd) we're looking forward to welcome you! 
+- [Join our Slack community](https://join.slack.com/t/escapecommunity/shared_invite/zt-2cpklvqqv-m_h4fzlZhSatxcrxetf3Fg) we're looking forward to welcome you! Ask us questions and share the feedback with others!
 
-- [Follow us on Twitter](https://twitter.com/EscapeTechHQ) to watch occasional joke passing by and stay in touch! 
+- [Follow us on Twitter](https://twitter.com/EscapeTechHQ) to watch the occasional joke passing by and stay in touch! 
 
-- [Have any suggestions?](https://www.gitguardian.com/contact-us) Feel free to drop us a line. We're always open to feedback! Don't be shy 😊
+- [Have any suggestions?](mailto:ping@escape.tech) Feel free to drop us a line. We're always open to feedback! Don't be shy 😊
 
 
 
