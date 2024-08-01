@@ -23,7 +23,9 @@
 
 [Escape](https://escape.tech) is the API discovery and security platform built to help Application Security engineers. 
 
-Securing APIs shouldn't be this hard. With Escape, you can quickly inventory all APIs, detect OWASP Top 10 and complex logic flaws at scale, and adopt security in CI/CD.  No agent, no proxy are required. And we assist developers with detailed remediation snippets 😉
+View exposed API endpoints and sensitive data in minutes, continuously test as APIs evolve, prioritize business-critical vulnerabilities, and fix them efficiently with actionable remediation code snippets. No traffic monitoring, agents, or complex integrations required. 
+
+Yes, we're here to help you prioritize and win the respect of your development team 😉 
 
 ## 🤝 Join our team  
 
@@ -53,6 +55,8 @@ At Escape, in addition to our work on API security, we've also been developing s
 ## 👀 Upcoming events & Resources 
 
 - [We'd be happy to see you at our upcoming virtual events](https://escape.tech/blog/tag/events/). 
+
+- [The Elephant in AppSec podcast & upcoming virtual event](https://www.youtube.com/@the-elephant-in-appsec). 
 
 - [Escape API Security Blog](https://escape.tech/blog/): Learn about GraphQL security, API security, performance, testing, and building production-ready APIs with the latest ecosystem tools and best practices! We also share lots of in-depth technical walkthroughs.  
 
