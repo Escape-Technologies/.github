@@ -8,7 +8,7 @@
   <br />
   <a href="https://escape.tech/?utm_source=github&utm_medium=referral">Our Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-   <a href="https://escape.tech/blog/?utm_source=github&utm_medium=referral">API Security Blog</a>
+   <a href="https://escape.tech/blog/?utm_source=github&utm_medium=referral">Application Security Blog</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://escape.tech/academy/?utm_source=github&utm_medium=referral">API Security Academy</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -21,11 +21,11 @@
 
 ## 👋 Hello again   
 
-[Escape](https://escape.tech) is the API discovery and security platform built to help Application Security engineers. 
+[Escape](https://escape.tech) is the only platform that discovers and tests the security of all your APIs, SPAs, and Microservices. It is built to make lives of Application Security engineers easier 😉
 
-View exposed API endpoints and sensitive data in minutes, continuously test as APIs evolve, prioritize business-critical vulnerabilities, and fix them efficiently with actionable remediation code snippets. No traffic monitoring, agents, or complex integrations required. 
+Document all your APIs in minutes, leverage our [proprietary DAST algorithm](https://escape.tech](https://escape.tech/blog/escape-proprietary-algorithm/) to detect business logic vulnerabilities, and reduce developer remediation overhead with code fixes.  
 
-Yes, we're here to help you prioritize and win the respect of your development team 😉 
+Yes, we're here to help you prioritize and win the respect of your development team!
 
 ## 🤝 Join our team  
 
@@ -33,7 +33,7 @@ We believe it’s time to bring more AI-driven innovation to cybersecurity, and 
 
 ## 🧙 Open source repos 
 
-At Escape, in addition to our work on API security, we've also been developing some fantastic open-source projects. Let us introduce you to all of them 🚀
+At Escape, alongside our work on application discovery, API security, and Dynamic Application Security Testing (DAST), we've also been developing some fantastic open-source projects. Let us introduce you to all of them 🚀
 
 - [API Security Academy](https://github.com/Escape-Technologies/graphql-security-academy), an interactive platform dedicated to helping you learn how to secure #graphql applications.
 
@@ -49,16 +49,16 @@ At Escape, in addition to our work on API security, we've also been developing s
 
 - [Mookme](https://github.com/Escape-Technologies/mookme), a git hook manager, designed monorepos for dealing with different projects and languages, automated filtering, and ease of configuration and setup.
 
-- [PyMultiAuth](https://github.com/Escape-Technologies/py-multiauth), an open-source Python library that allows users to authenticate and reauthenticate automatically.
+- [PyMultiAuth-Archived](https://github.com/Escape-Technologies/py-multiauth), an open-source Python library that allows users to authenticate and reauthenticate automatically.
 
 
 ## 👀 Upcoming events & Resources 
 
 - [We'd be happy to see you at our upcoming virtual events](https://escape.tech/blog/tag/events/). 
 
-- [The Elephant in AppSec podcast & upcoming virtual event](https://www.youtube.com/@the-elephant-in-appsec). 
+- [The Elephant in AppSec podcast & virtual event](https://www.youtube.com/@the-elephant-in-appsec). 
 
-- [Escape API Security Blog](https://escape.tech/blog/): Learn about GraphQL security, API security, performance, testing, and building production-ready APIs with the latest ecosystem tools and best practices! We also share lots of in-depth technical walkthroughs.  
+- [Escape Security Blog](https://escape.tech/blog/): Dive into the world of application security, API security and GraphQL security. Explore performance optimization, testing strategies, and best practices for building secure APIs & SPA! We also share lots of in-depth technical walkthroughs.  
 
 
 ## 👋 Stay in touch 
