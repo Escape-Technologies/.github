@@ -23,7 +23,7 @@
 
 [Escape](https://escape.tech) is the only platform that discovers and tests the security of all your APIs, SPAs, and Microservices. It is built to make lives of Application Security engineers easier 😉
 
-Document all your APIs in minutes, leverage our [proprietary DAST algorithm](https://escape.tech](https://escape.tech/blog/escape-proprietary-algorithm/) to detect business logic vulnerabilities, and reduce developer remediation overhead with code fixes.  
+Document all your APIs in minutes, leverage our [proprietary DAST algorithm](https://escape.tech/blog/escape-proprietary-algorithm/) to detect business logic vulnerabilities, and reduce developer remediation overhead with code fixes.  
 
 Yes, we're here to help you prioritize and win the respect of your development team!
 
