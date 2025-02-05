@@ -1,6 +1,6 @@
 ## 👋 Welcome to our repo 
 
-![Escape](https://26857953.fs1.hubspotusercontent-eu1.net/hubfs/26857953/cover-github-escape-api-discovery-security-1.png)
+![Escape](https://26857953.fs1.hubspotusercontent-eu1.net/hubfs/26857953/cover-github-escape.png)
 
 <div align="center">
   <h1>Escape</h1>
