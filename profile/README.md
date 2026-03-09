@@ -1,14 +1,12 @@
 ## 👋 Welcome to our repo 
 
-![Escape](https://26857953.fs1.hubspotusercontent-eu1.net/hubfs/26857953/cover-github-escape.png)
-
 <div align="center">
   <h1>Escape</h1>
 
   <br />
   <a href="https://escape.tech/?utm_source=github&utm_medium=referral">Our Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-   <a href="https://escape.tech/blog/?utm_source=github&utm_medium=referral">Application Security Blog</a>
+   <a href="https://escape.tech/blog/?utm_source=github&utm_medium=referral">Security Blog</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://escape.tech/academy/?utm_source=github&utm_medium=referral">API Security Academy</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -21,11 +19,7 @@
 
 ## 👋 Hello again   
 
-[Escape](https://escape.tech) is the only DAST platform that works with your modern stack and tests business logic instead of missing headers. It is built to make lives of Application Security engineers easier and to fit right into your modern stack, supporting modern web frameworks, APIs, CI/CD, and Wiz without hassle 😉
-
-Document all your APIs & SPAs in minutes and discover vulnerabilities even at a business logic level with our [proprietary AI-powered algorithm](https://escape.tech/blog/escape-proprietary-algorithm/).
-
-Yes, we're here to help you prioritize what's critical for your business and win the respect of your development team!
+[Escape](https://escape.tech) automates the full offensive security lifecycle, multiplying the impact of every security engineer tenfold. Our goal is to replace legacy scanners and manual offensive security processes with AI agents that discover, test, and remediate directly in your engineering workflows 😉
 
 ## 🤝 Join our team  
 
@@ -58,7 +52,7 @@ At Escape, alongside our work on application discovery, API security, and Dynami
 
 - [The Elephant in AppSec podcast & virtual event](https://www.youtube.com/@the-elephant-in-appsec). 
 
-- [Escape Security Blog](https://escape.tech/blog/): Dive into the world of application security, API security and GraphQL security. Explore performance optimization, testing strategies, and best practices for building secure APIs & SPA! We also share lots of in-depth technical walkthroughs.  
+- [Escape Security Blog](https://escape.tech/blog/): Dive into the world of application & offensive security, API security and GraphQL security. Explore performance optimization, testing strategies, and best practices for building secure APIs & SPA! We also share lots of in-depth technical walkthroughs.  
 
 
 ## 👋 Stay in touch 
