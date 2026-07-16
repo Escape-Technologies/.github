@@ -8,7 +8,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://escape.tech/blog/?utm_source=github&utm_medium=referral">Security Blog</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-   <a href="https://escape.tech/academy/?utm_source=github&utm_medium=referral">API Security Academy</a>
+   <a href="https://escape.tech/research?utm_source=github&utm_medium=referral">Research</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://escape.tech/blog/tag/case-study/?utm_source=github&utm_medium=referral">Case Studies</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
